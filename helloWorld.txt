@@ -1,0 +1,6 @@
+Este es un archivo de texto creado a traves de la terminal utilizando comandos de Git.
+Estoy aprendiendo a utilizar Git que es un administrador de versiones que se utiliza sobre todo
+para equipos de trabajo donde se produce codigo en conjunto con diferentes personas.
+
+In the same way for english students, you must follow the instructions to get to the point a to 
+the point b.
